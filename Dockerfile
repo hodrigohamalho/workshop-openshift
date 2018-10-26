@@ -1,4 +1,4 @@
-FROM centos:7
+FROM fedora 
 
 LABEL maintainer="dvercill@redhat.com"
 LABEL version="1.0"
